@@ -1,1 +1,7 @@
 /* PHASE 1: Header */
+
+.header {
+    display: flex;
+    background-color: red;
+    color: white;
+}
